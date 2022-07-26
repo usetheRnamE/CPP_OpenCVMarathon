@@ -3,7 +3,7 @@
 #include <opencv2/imgproc.hpp>
 #include <iostream>
 
-int main()
+void MAIN4()
 {
 	std::string path = "D:/STD/Practise/OpenCVTutorial/Resources/Cube.jpg";
 
