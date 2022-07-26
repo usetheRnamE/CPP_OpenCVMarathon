@@ -1,0 +1,2 @@
+﻿D:\VS\VSItself\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open D:\STD\Practise\OpenCVTutorial\CPP\CPP_OpenCVMarathon\x64\Debug\CPP_OpenCVMarathon.exe for writing

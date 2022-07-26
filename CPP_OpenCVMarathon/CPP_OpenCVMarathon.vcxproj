@@ -132,9 +132,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ImageConversion.cpp" />
     <ClCompile Include="ImageImport.cpp" />
-    <ClCompile Include="Resources\VideoImport.cpp" />
-    <ClCompile Include="Resources\WebCamImport.cpp" />
+    <ClCompile Include="VideoImport.cpp" />
+    <ClCompile Include="WebCamImport.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
