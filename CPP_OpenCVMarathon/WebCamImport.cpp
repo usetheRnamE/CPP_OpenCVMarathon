@@ -3,7 +3,7 @@
 #include <opencv2/imgproc.hpp>
 #include <iostream>
 
-int main()
+void MAIN2()
 {
 	cv::VideoCapture cap(0); // 0 - webcam ID
 
