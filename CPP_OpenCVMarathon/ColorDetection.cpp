@@ -14,7 +14,7 @@
 int minH, minS, minV;
 int maxH, maxS, maxV;
 
-void main()
+void MAIN7()
 {
 	std::string path = "D:/STD/Practise/OpenCVTutorial/Resources/Cube.jpg";
 	cv::Mat img = cv::imread(path);
